@@ -1,4 +1,4 @@
-## **Quantum Weather Forecasting – WISER 2025**
+## **Quantum Weather Forecasting**
 
 ### **Project Overview**
 During my participation at **WISER 2025**, I worked on exploring **quantum computing approaches for weather forecasting**. Traditional weather prediction relies on **non-linear partial differential equations (PDEs)**, which are computationally intensive and not directly compatible with current quantum hardware.  
